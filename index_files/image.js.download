@@ -14,8 +14,8 @@ function MM_preloadImages(){var D=document;if(D.images){if(!D.MM_p){D.MM_p=new A
 
 }
 /*
-     FILE ARCHIVED ON 13:39:31 Mar 31, 2011 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 00:10:10 Apr 04, 2022.
+     FILE ARCHIVED ON 17:29:56 Oct 04, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:31:53 Apr 09, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -23,14 +23,14 @@ function MM_preloadImages(){var D=document;if(D.images){if(!D.MM_p){D.MM_p=new A
 */
 /*
 playback timings (ms):
-  captures_list: 1271.006
-  exclusion.robots: 0.09
-  exclusion.robots.policy: 0.083
-  cdx.remote: 0.055
-  esindex: 0.009
-  LoadShardBlock: 1115.401 (3)
-  PetaboxLoader3.datanode: 1113.793 (4)
-  CDXLines.iter: 17.569 (3)
-  load_resource: 61.936
-  PetaboxLoader3.resolve: 30.935
+  captures_list: 86.153
+  exclusion.robots: 0.093
+  exclusion.robots.policy: 0.086
+  RedisCDXSource: 0.632
+  esindex: 0.008
+  LoadShardBlock: 63.154 (3)
+  PetaboxLoader3.datanode: 74.333 (4)
+  CDXLines.iter: 20.436 (3)
+  load_resource: 45.971
+  PetaboxLoader3.resolve: 32.147
 */

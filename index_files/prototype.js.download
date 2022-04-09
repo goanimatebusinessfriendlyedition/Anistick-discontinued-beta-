@@ -14,8 +14,8 @@ var Prototype={Version:"1.6.0.3",Browser:{IE:!!(window.attachEvent&&navigator.us
 
 }
 /*
-     FILE ARCHIVED ON 13:39:10 Mar 31, 2011 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 00:10:08 Apr 04, 2022.
+     FILE ARCHIVED ON 17:29:24 Oct 04, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:28:57 Apr 09, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -23,14 +23,14 @@ var Prototype={Version:"1.6.0.3",Browser:{IE:!!(window.attachEvent&&navigator.us
 */
 /*
 playback timings (ms):
-  captures_list: 157.217
-  exclusion.robots: 0.081
-  exclusion.robots.policy: 0.074
-  cdx.remote: 0.06
-  esindex: 0.008
-  LoadShardBlock: 128.265 (3)
-  PetaboxLoader3.datanode: 289.06 (4)
-  CDXLines.iter: 15.519 (3)
-  load_resource: 319.547
-  PetaboxLoader3.resolve: 73.21
+  captures_list: 96.071
+  exclusion.robots: 0.084
+  exclusion.robots.policy: 0.077
+  RedisCDXSource: 0.58
+  esindex: 0.009
+  LoadShardBlock: 72.663 (3)
+  PetaboxLoader3.datanode: 87.289 (4)
+  CDXLines.iter: 20.315 (3)
+  load_resource: 77.667
+  PetaboxLoader3.resolve: 52.673
 */

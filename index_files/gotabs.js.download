@@ -14,8 +14,8 @@ var URL_LOAD_RELATED="/ajax/relatedMovies";var URL_LOAD_AUTHOR="/ajax/userMovies
 
 }
 /*
-     FILE ARCHIVED ON 13:39:34 Mar 31, 2011 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 00:10:10 Apr 04, 2022.
+     FILE ARCHIVED ON 17:30:04 Oct 04, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:31:53 Apr 09, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -23,14 +23,13 @@ var URL_LOAD_RELATED="/ajax/relatedMovies";var URL_LOAD_AUTHOR="/ajax/userMovies
 */
 /*
 playback timings (ms):
-  captures_list: 165.185
-  exclusion.robots: 0.111
-  exclusion.robots.policy: 0.102
-  RedisCDXSource: 0.596
-  esindex: 0.008
-  LoadShardBlock: 143.054 (3)
-  PetaboxLoader3.datanode: 134.266 (4)
-  CDXLines.iter: 19.002 (3)
-  load_resource: 90.672
-  PetaboxLoader3.resolve: 36.576
+  captures_list: 400.905
+  exclusion.robots: 0.081
+  exclusion.robots.policy: 0.075
+  RedisCDXSource: 29.469
+  esindex: 0.01
+  LoadShardBlock: 352.32 (3)
+  PetaboxLoader3.datanode: 369.452 (4)
+  CDXLines.iter: 16.622 (3)
+  load_resource: 20.4
 */
