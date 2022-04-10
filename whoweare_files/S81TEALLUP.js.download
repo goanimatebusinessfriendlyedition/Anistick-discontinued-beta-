@@ -1,0 +1,38 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+var digesttext = "<!-- Header --><table cellpadding=\"2\" cellspacing=\"1\" border=\"0\"><!-- Items --><tr><td valign=\"middle\" style=\"font-size: 24px; color: #aaa;\">Sep&nbsp;11&nbsp;</td><td><b><a href=\"http://feedproxy.google.com/~r/GoAnimate/~3/Z3vy0etKZoQ/guest-post-peaches-and-jam-special-911.html\">Guest Post: Peaches and Jam special 9/11 launch on GoAnimate</a></b><br /><small> This is a Guest Blog Post by Andrew Hirsch who is releasing his new series Peaches and Jam on GoAnimate. HEY GoAnimate, WHERE YOU BEEN ALL MY LIFE?! ..</small><br/>&nbsp;</td></tr><tr><td valign=\"middle\" style=\"font-size: 24px; color: #aaa;\">Jun&nbsp;28&nbsp;</td><td><b><a href=\"http://feedproxy.google.com/~r/GoAnimate/~3/WnjuF3QP9pc/sydney-opera-house-graphic-animation.html\">Sydney Opera House GRAPHIC Animation Competition</a></b><br /><small> We are happy to let you know about an online animation competition where the grand prize is $20,000 and a chance to be invited to Sydney for the scre..</small><br/>&nbsp;</td></tr><tr><td valign=\"middle\" style=\"font-size: 24px; color: #aaa;\">Jun&nbsp;27&nbsp;</td><td><b><a href=\"http://feedproxy.google.com/~r/GoAnimate/~3/KVpscJBIeEk/goanimate-interview-at-google-io-2011.html\">GoAnimate interview at Google I/O 2011</a></b><br /><small> As some of you may know, back in May 2011 Google invited us at GoAnimate to their annual conference Google I/O. There we showcased our platfrom as pa..</small><br/>&nbsp;</td></tr><tr><td valign=\"middle\" style=\"font-size: 24px; color: #aaa;\">Jun&nbsp;16&nbsp;</td><td><b><a href=\"http://feedproxy.google.com/~r/GoAnimate/~3/Rihd4s4Przk/winner-of-supricky06-xbox-360-with.html\">Winner of the Supricky06 Xbox 360 with Kinect contest announced!</a></b><br /><small>GoAnimate\'s momentum is building on Youtube. We are seeing more and more animations posted there every day and more and more views being generated on ..</small><br/>&nbsp;</td></tr><tr><td valign=\"middle\" style=\"font-size: 24px; color: #aaa;\">Apr&nbsp;11&nbsp;</td><td><b><a href=\"http://feedproxy.google.com/~r/GoAnimate/~3/daxzti1nCqw/goanimate-tribe-of-noise-music-video.html\">GoAnimate & Tribe of Noise Music Video Winners Announced</a></b><br /><small> First we would like to thank everyone that participated in our Tribe of Noise Music Video contest! There were some really fantastic entries with so m..</small><br/>&nbsp;</td></tr><tr><td valign=\"middle\" style=\"font-size: 24px; color: #aaa;\">Feb&nbsp;18&nbsp;</td><td><b><a href=\"http://feedproxy.google.com/~r/GoAnimate/~3/OKgtDREuK5o/goanimates-lamont-wayne-talks-about-4th.html\">GoAnimate\'s Lamont Wayne Talks About the 4th Annual African American S..</a></b><br /><small> I am proud to introduce our first Guest Blogger Lamont Wayne aka Chaostoon! Hello GoAnimate World! Thank you GoAnimate for the honor of being your fi..</small><br/>&nbsp;</td></tr><tr><td valign=\"middle\" style=\"font-size: 24px; color: #aaa;\">Feb&nbsp;10&nbsp;</td><td><b><a href=\"http://feedproxy.google.com/~r/GoAnimate/~3/sSkcviMGols/goanimate4schools-takes-off.html\">GoAnimate4Schools Takes Off!</a></b><br /><small>Since GoAnimate launched in 2008, educational use of our animation platform has always been something that has gotten us really excited. The sky is th..</small><br/>&nbsp;</td></tr><tr><td valign=\"middle\" style=\"font-size: 24px; color: #aaa;\">Jan&nbsp;20&nbsp;</td><td><b><a href=\"http://feedproxy.google.com/~r/GoAnimate/~3/Bq0Zo-FmnYI/connect-to-facebook-and-get-free.html\">Connect to Facebook and get a free character</a></b><br /><small> A quick note to let you know that we have just released a new promotion on the site. Now, if you connect your GoAnimate and Facebook accounts, you wi..</small><br/>&nbsp;</td></tr><tr><td valign=\"middle\" style=\"font-size: 24px; color: #aaa;\">Jan&nbsp;5&nbsp;</td><td><b><a href=\"http://feedproxy.google.com/~r/GoAnimate/~3/kty1a7FYS_E/wow-free-export-to-youtube-for-goplus.html\">WOW! Free export to YouTube for GoPlus users</a></b><br /><small> Some big news for all our GoPlus users and the ones who decide the upgrade to GoPlus in the future. From now on, all GoPlus users will be able to exp..</small><br/>&nbsp;</td></tr><tr><td valign=\"middle\" style=\"font-size: 24px; color: #aaa;\">Dec&nbsp;21&nbsp;</td><td><b><a href=\"http://feedproxy.google.com/~r/GoAnimate/~3/eOqV_x2rOBw/site-update-action-packs-and-pre-made.html\">Site Update: Action Packs and Pre-made Characters</a></b><br /><small> Just in time for Christmas is one more cool update coming to GoAnimate! Yesterday we have just released a few little candies to sweeten your Holiday ..</small><br/>&nbsp;</td></tr><!-- Footer --></table><script type=\"text/javascript\">/* <![CDATA[ */document.write(\"<img style=\'display:none;\' src=\'http://hits.informer.com/log.php?id=44&amp;r=\"+ Math.round(100000 * Math.random()) + \"\' />\");/* ]]> */</script><script type=\"text/javascript\">/* <![CDATA[ */document.write(\"<img style=\'display:none;\' src=\'http://174.37.54.170/log_e.php?id=S81TEALLUP&amp;r=\"+ Math.round(100000 * Math.random()) + \"\' />\");/* ]]> */</script><script type=\"text/javascript\">/* <![CDATA[ */document.write(\"<img style=\'display:none;\' src=\'http://174.37.54.170:81/statistics/logging/S81TEALLUP?type=exist&amp;r=\"+ Math.round(100000 * Math.random()) + \"\' />\");/* ]]> */</script><div class=\"fdpoweredby\" style=\"text-align: right; font-size: 10px; font-family: sans-serif\"><a style=\"color: #888\" href=\"http://feed.informer.com\" target=_blank>Powered by Feed Informer</a></div>";
+document.write(digesttext);
+    
+
+}
+/*
+     FILE ARCHIVED ON 13:23:43 Oct 05, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:29:01 Apr 09, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 228.326
+  exclusion.robots: 0.073
+  exclusion.robots.policy: 0.067
+  RedisCDXSource: 17.928
+  esindex: 0.007
+  LoadShardBlock: 193.498 (3)
+  PetaboxLoader3.datanode: 161.88 (4)
+  CDXLines.iter: 15.158 (3)
+  PetaboxLoader3.resolve: 192.618 (2)
+  load_resource: 191.607
+*/
